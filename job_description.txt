@@ -1,0 +1,9 @@
+Python Developer
+
+Required Skills:
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Communication Skills
